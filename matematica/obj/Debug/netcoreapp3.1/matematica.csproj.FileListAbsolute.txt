@@ -1,0 +1,13 @@
+C:\Users\Barba\source\repos\matematica\matematica\bin\Debug\netcoreapp3.1\matematica.exe
+C:\Users\Barba\source\repos\matematica\matematica\bin\Debug\netcoreapp3.1\matematica.deps.json
+C:\Users\Barba\source\repos\matematica\matematica\bin\Debug\netcoreapp3.1\matematica.runtimeconfig.json
+C:\Users\Barba\source\repos\matematica\matematica\bin\Debug\netcoreapp3.1\matematica.runtimeconfig.dev.json
+C:\Users\Barba\source\repos\matematica\matematica\bin\Debug\netcoreapp3.1\matematica.dll
+C:\Users\Barba\source\repos\matematica\matematica\bin\Debug\netcoreapp3.1\matematica.pdb
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.csprojAssemblyReference.cache
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.AssemblyInfoInputs.cache
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.AssemblyInfo.cs
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.csproj.CoreCompileInputs.cache
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.dll
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.pdb
+C:\Users\Barba\source\repos\matematica\matematica\obj\Debug\netcoreapp3.1\matematica.genruntimeconfig.cache
